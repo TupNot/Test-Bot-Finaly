@@ -1,2 +1,2 @@
 # Test-Bot-Finaly
-Bot de tout types 
+Bot de Modération, Fun !
