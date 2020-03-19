@@ -1,1 +1,1 @@
-worker: node covid-19
+worker: node main
